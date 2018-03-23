@@ -1,0 +1,3 @@
+pool-1-thread-1: Quantity of characters = 62495; Runtime = 203ms.
+pool-1-thread-2: Quantity of characters = 322511; Runtime = 634ms.
+pool-1-thread-3: Quantity of characters = 230728; Runtime = 252ms.
